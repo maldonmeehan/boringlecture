@@ -1,11 +1,16 @@
 h2.intro {
-  text-decoration-style: dotted;
-}
-
-p.intro {
-  font-size: 22px;
+  text-align: center;
 }
 
 img.intro {
   width: 100%;
+}
+
+.important {
+  font-style: italic;
+  color: grey;
+}
+
+.boring {
+    font-size: 20px;
 }

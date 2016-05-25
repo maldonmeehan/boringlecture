@@ -1,0 +1,11 @@
+h2.intro {
+  text-decoration-style: dotted;
+}
+
+p.intro {
+  font-size: 22px;
+}
+
+img.intro {
+  width: 100%;
+}
